@@ -60,9 +60,9 @@
                         <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
                     </a>
                     <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
-                        <nav class="sb-sidenav-menu-nested nav"><i class="bi bi-person-circle"></i>
->
-                            <a class="nav-link" href="Clientes/index.php">Cadastro</a>
+                        <nav class="sb-sidenav-menu-nested nav">
+                            <i class="bi bi-person-circle"></i>
+                            <a class="nav-link" href="src/view/Clientes/index.php">Cadastro</a>
                         </nav>
                     </div>
                     <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
