@@ -30,11 +30,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.10.7/dist/sweetalert2.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
-    <link rel="website icon" type="jpg" href="./templates/imagens/logoEmpresa.jpg">
+    <link rel="website icon" type="png" href="./templates/imagens/Logo.png">
     <link rel="stylesheet" href="./css/styleLogin.css">
     <style>
         body {
-            background: linear-gradient(to right, #141E30, #131618ff);
+            background: linear-gradient(to right, #141E30, #243B55);
         }
         .main-container {
             display: flex;
@@ -65,10 +65,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <main class="container-fluid main-container">
-        <div class="card" style="background-color: #E4DBCC";>
-            <div class="card-body"> 
+        <div class="card">
+            <div class="card-body">
                 <div class="logo-container">
-                    <img src="./templates/imagens/logoEmpresa.jpg" alt="Logo" class="logo-small">
+                    <img src="./templates/imagens/Logo.png" alt="Logo" class="logo-small">
                 </div>
                 <h2 class="text-center mb-4">Login</h2>
                 <form action="" method="POST" class="was-validated">
