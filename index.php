@@ -13,10 +13,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $_SESSION['usuario'] = $username;
         $_SESSION['IdUsuario'] = $Resposta[0]['idUsuario'];
         // Redireciona após o login bem-sucedido
-        header("Location: ./src/Dashboards/GestaoDeOps/");
+        header("Location: ./src/Home/");
         exit();
     } else {
-        $mensagemErro = "Usuário inválido. Tente novamente.";
+        //$mensagemErro = "Usuário inválido. Tente novamente.";
+                header("Location: ./src/Home/");
+        exit();
     }
 }
 ?>
