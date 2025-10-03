@@ -20,7 +20,7 @@
                     <h1 class="mt-4">CLIENTES</h1>
                 </div>
                 <div>
-                <button type="button" class="p-1 btn btn-dark">Inserir +</button>
+                <button type="button" class="p-1 ms-1 btn btn-dark">Inserir +</button>
                 </div>  
 
                 <table class="table align-middle mb-0 bg-white">
