@@ -19,6 +19,9 @@
                 <div class="container-fluid px-4">
                     <h1 class="mt-4">CLIENTES</h1>
                 </div>
+                <div>
+                <button type="button" class="p=1 btn btn-dark">Inserir +</button>
+                </div>
 
                 <table class="table align-middle mb-0 bg-white">
                     <thead class="bg-light">
