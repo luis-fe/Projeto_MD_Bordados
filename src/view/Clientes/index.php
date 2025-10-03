@@ -23,11 +23,10 @@
                 <table class="table align-middle mb-0 bg-white">
                     <thead class="bg-light">
                         <tr>
-                        <th>Name</th>
-                        <th>Title</th>
-                        <th>Status</th>
-                        <th>Position</th>
-                        <th>Actions</th>
+                        <th>Cliente</th>
+                        <th>Contato</th>
+                        <th>Situacao</th>
+                        <th>Ações</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -47,13 +46,12 @@
                             </div>
                         </td>
                         <td>
-                            <p class="fw-normal mb-1">Software engineer</p>
-                            <p class="text-muted mb-0">IT department</p>
+                            <p class="fw-normal mb-1">(62)9999-99-99</p>
+                            <p class="text-muted mb-0">Celular</p>
                         </td>
                         <td>
                             <span class="badge badge-success rounded-pill d-inline">Active</span>
                         </td>
-                        <td>Senior</td>
                         <td>
                             <button type="button" class="btn btn-link btn-sm btn-rounded">
                             Edit
@@ -76,15 +74,14 @@
                             </div>
                         </td>
                         <td>
-                            <p class="fw-normal mb-1">Consultant</p>
-                            <p class="text-muted mb-0">Finance</p>
+                            <p class="fw-normal mb-1">(62)9999-99-99</p>
+                            <p class="text-muted mb-0">Celular</p>
                         </td>
                         <td>
                             <span class="badge badge-primary rounded-pill d-inline"
                                 >Onboarding</span
                             >
                         </td>
-                        <td>Junior</td>
                         <td>
                             <button
                                     type="button"
@@ -111,13 +108,12 @@
                             </div>
                         </td>
                         <td>
-                            <p class="fw-normal mb-1">Designer</p>
-                            <p class="text-muted mb-0">UI/UX</p>
+                            <p class="fw-normal mb-1">(62)9999-99-99</p>
+                            <p class="text-muted mb-0">Celular</p>
                         </td>
                         <td>
                             <span class="badge badge-warning rounded-pill d-inline">Awaiting</span>
                         </td>
-                        <td>Senior</td>
                         <td>
                             <button
                                     type="button"
