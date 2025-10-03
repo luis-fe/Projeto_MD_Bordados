@@ -23,8 +23,7 @@
                     </a>
                     <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                         <nav class="sb-sidenav-menu-nested nav">
-                            <i class="bi bi-person-circle"></i>
-                            <a class="nav-link" href="/src/view/Clientes/index.php">Cadastro</a>
+                            <a class="nav-link" href="/src/view/Clientes/index.php">Clientes</a>
                         </nav>
                     </div>
                     <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
